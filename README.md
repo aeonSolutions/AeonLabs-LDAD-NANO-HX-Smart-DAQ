@@ -6,7 +6,7 @@ This repo contains the KiCad files for the  AeonLabs  LDAD NANO for strain sensi
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-LDAD-NANO-HX-Smart-DAQ/total)
 
 ## Revisions
-- revision 2.3
+- revision 6.1
   - added MCU firmware download connection 
 
 
