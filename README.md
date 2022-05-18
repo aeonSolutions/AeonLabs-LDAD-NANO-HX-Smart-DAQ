@@ -1,6 +1,7 @@
 # AeonLabs LDAD NANO HX Smart DAQ
 This repo contains the KiCad files for the  AeonLabs  LDAD NANO for strain sensing / weight measurements and more than 20 other sensors compatible with I2C protocol communication. 
  
+*Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-LDAD-NANO-HX-Smart-DAQ.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-LDAD-NANO-HX-Smart-DAQ/total)
