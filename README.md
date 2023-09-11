@@ -1,4 +1,4 @@
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Laboratory Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Laboratory%20Automation) >>  [Smart DAQ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ)  >>  LDAD NANO HX Smart DAQ
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Laboratory Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Laboratory%20Automation) >>  [Smart DAQ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ)  >>   [12-bit Smart DAQs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/12-bit)  >>  LDAD NANO HX Smart DAQ
 
 <br>
 
